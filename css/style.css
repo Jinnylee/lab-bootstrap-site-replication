@@ -1,0 +1,110 @@
+body {
+  background-color: #EAECF0;
+  color: white;
+}
+
+  .container-fluid {
+  padding: 10px;
+  color:white;
+}
+
+nav > ul > li {
+  text-transform: uppercase;
+}
+
+.red {
+  background-color: red;
+}
+
+  .topleft, .topright{
+  width:698px;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+}
+
+.topleft {
+  height: 400px;
+  background-image: url("../image/unicorn.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.topright {
+  padding-right: 0px;
+}
+
+h1, h2, h3 {
+}
+
+.snoopdog {
+  height:195px;
+  background-image: url("../image/snoopdog.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.lightbulb {
+  height:195px;
+  width:342px;
+  float: left;
+  margin: 10px 0px 0px 0px;
+    background-image:url("../image/money.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-right:5px;
+}
+
+.microsoft {
+  height:195px;
+  width:342px;
+  float: right;
+  margin: 10px 0px 0px 0px;
+  background-image:url("../image/microsoft.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-left: 0px;
+  padding-right:0px;
+}
+
+footer {
+  background-color: black;
+  color:white;
+  width:100%;
+  height:200px;
+  position: absolute;
+  bottom: 0px;
+  display: block;
+}
+
+.literally {
+  float: left;
+}
+
+.righty{
+  float:right;
+}
+
+#orange {
+  background-color: orange;
+  padding: 10px 3px 10px 3px;
+}
+
+nav> .aboutjobs> li {
+  display: inline;
+}
+
+.last {
+  border-top: 1px solid white;
+  float: center;
+}
+
+#lastid {
+  text-align: middle;
+}
+
+.literally, .righty {
+  margin-bottom: 60px;
+}
